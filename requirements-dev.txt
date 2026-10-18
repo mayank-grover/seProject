@@ -1,0 +1,2 @@
+# Optional development tooling; run.py needs no third-party packages.
+black==25.11.0

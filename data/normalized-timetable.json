@@ -14,10 +14,7 @@
       "end": 660,
       "text": "STWMN Lab (G1+G2) Prof. Trilok Chand \u20acL13+CL14",
       "id": "ocr-002",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -28,9 +25,7 @@
       "end": 600,
       "text": "STWMN 13 Prof. Trilok Chand 405",
       "id": "ocr-003",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -41,9 +36,7 @@
       "end": 600,
       "text": "XAl L Dr. Poonam 303",
       "id": "ocr-004",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -54,9 +47,7 @@
       "end": 660,
       "text": "ADSA L Dr. Padmavati 405",
       "id": "ocr-005",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -67,9 +58,7 @@
       "end": 660,
       "text": "Design of Exp. & . Research Methodology EE Dept. Classroom",
       "id": "ocr-006",
-      "rooms": [
-        "EE-CLASS"
-      ],
+      "rooms": ["EE-CLASS"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -80,9 +69,7 @@
       "end": 660,
       "text": "AIDA Dr. Rupali 405",
       "id": "ocr-007",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -93,9 +80,7 @@
       "end": 660,
       "text": "Design of Exp. & Research Methodology EE Dept. Classroom",
       "id": "ocr-008",
-      "rooms": [
-        "EE-CLASS"
-      ],
+      "rooms": ["EE-CLASS"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -106,9 +91,7 @@
       "end": 720,
       "text": "AIDA L Dr. Rupali 406",
       "id": "ocr-009",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -119,9 +102,7 @@
       "end": 720,
       "text": "XAl L Dr, Poonam 30S",
       "id": "ocr-010",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -132,9 +113,7 @@
       "end": 780,
       "text": "ADSA Lab Dr. Padmavati 304",
       "id": "ocr-011",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -145,9 +124,7 @@
       "end": 780,
       "text": "XAI Lab Dr. Poonam 304 PhD Scholars:11-12Noon",
       "id": "ocr-012",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -158,10 +135,7 @@
       "end": 780,
       "text": "AIDA Lab Dr. Rupali+Dr. Navdeep CL14+306",
       "id": "ocr-013",
-      "rooms": [
-        "CL14",
-        "LAB306"
-      ],
+      "rooms": ["CL14", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -172,9 +146,7 @@
       "end": 780,
       "text": "Soft Computing L Prof. Shailendra Singh L30",
       "id": "ocr-014",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -185,9 +157,7 @@
       "end": 780,
       "text": "Soft Computing Prof. Shaitendra Singh L10",
       "id": "ocr-015",
-      "rooms": [
-        "L10"
-      ],
+      "rooms": ["L10"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -198,9 +168,7 @@
       "end": 960,
       "text": "Information Retrieval Lab Prof, Pravneet 304",
       "id": "ocr-016",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -211,9 +179,7 @@
       "end": 900,
       "text": "Information Retrieval Prof. Pravneet 406",
       "id": "ocr-017",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -224,9 +190,7 @@
       "end": 900,
       "text": "information Retrieval Prof, Pravneet 406",
       "id": "ocr-018",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -237,9 +201,7 @@
       "end": 900,
       "text": "ADSA L Dr. Padmavati 406",
       "id": "ocr-020",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -250,9 +212,7 @@
       "end": 1020,
       "text": "Design of Exp. & Research Methodology Lab EE Dept. Classroom",
       "id": "ocr-021",
-      "rooms": [
-        "EE-CLASS"
-      ],
+      "rooms": ["EE-CLASS"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -263,9 +223,7 @@
       "end": 1020,
       "text": "Soft Computing Lab G1 (lab 304) or Soft Skill & Mgmt. Lab",
       "id": "ocr-022",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -276,9 +234,7 @@
       "end": 1020,
       "text": "Design of Exp. & Research Methodology Lab EE Dept. Classroom",
       "id": "ocr-023",
-      "rooms": [
-        "EE-CLASS"
-      ],
+      "rooms": ["EE-CLASS"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -289,9 +245,7 @@
       "end": 600,
       "text": "\u20ac$2301 G1 (L1) CIVIL Venue: L-30 Ms. Himani",
       "id": "ocr-028",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -302,9 +256,7 @@
       "end": 600,
       "text": "ES2301 G) (L3) CSE Venue: L-26 Dr. Momta Dobro",
       "id": "ocr-031",
-      "rooms": [
-        "L26"
-      ],
+      "rooms": ["L26"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -315,9 +267,7 @@
       "end": 660,
       "text": "\u20acS2301 {L2) DS Venue: L-22 Dr. Mamta Dabra",
       "id": "ocr-033",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -328,9 +278,7 @@
       "end": 720,
       "text": "\u00a3$2301 LAG F2 CIVIL Venue: DS Lab Or. Vaibhav + Kimani + Dr. Arvind PhD Scholar: Ms. Sakshi",
       "id": "ocr-034",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -341,9 +289,7 @@
       "end": 720,
       "text": "\u20ac$2301 LAB FL CIVIL Venue: DS Lab Or. Vaibhav + Ms. Jogminder M.Tech Scholes: Varunt Sood",
       "id": "ocr-036",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -354,9 +300,7 @@
       "end": 720,
       "text": "\u00a352301 LAB F2 EE Venue: DS Lab Ms. Amonjot + Or. Amito + Ms. Sanehi + Ms_ Jogminder",
       "id": "ocr-037",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -367,9 +311,7 @@
       "end": 900,
       "text": "ES2301 LAB F3 CSE Venue: DS Lab Dr. Rupali + Hordavinder + Ms. Jagminder PhD Scholars: Mr. Manraj Singh Sidhu, Mr, Suyash",
       "id": "ocr-038",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -380,9 +322,7 @@
       "end": 840,
       "text": "ES2301 (1) DS Venue: L-21 Mamto Debra",
       "id": "ocr-039",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -393,9 +333,7 @@
       "end": 840,
       "text": "E$2301 Gi (L2) EE Venue: L-28 Herdavinder",
       "id": "ocr-040",
-      "rooms": [
-        "L28"
-      ],
+      "rooms": ["L28"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -406,9 +344,7 @@
       "end": 900,
       "text": "ES2301 LAB F2 CSE Venue: DS Lab Dr. Rupali + Dr, Momta + Or. Navdeep + Ashpan Kaushal (M.Tech Scholor}",
       "id": "ocr-042",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -419,9 +355,7 @@
       "end": 840,
       "text": "\u00a352301 G1 (L2} CIVIL Venue: L-28 Himani",
       "id": "ocr-043",
-      "rooms": [
-        "L28"
-      ],
+      "rooms": ["L28"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -432,9 +366,7 @@
       "end": 840,
       "text": "\u00a352301 G2 (L2} CIVIL Venue: L-29 Hordavinder",
       "id": "ocr-044",
-      "rooms": [
-        "L29"
-      ],
+      "rooms": ["L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -445,9 +377,7 @@
       "end": 840,
       "text": "\u00a3$2301 Gi {L3) Civit Venue: L-28 Himani",
       "id": "ocr-046",
-      "rooms": [
-        "L28"
-      ],
+      "rooms": ["L28"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -458,9 +388,7 @@
       "end": 900,
       "text": "ES2301 LAB DS Venue: DS Lab Dr. Mamita Dobra + Ms. Jagminder + Ms. Sanehi PAD Scholars: Ms. Janvi, Ms. Aanshika",
       "id": "ocr-048",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -471,9 +399,7 @@
       "end": 840,
       "text": "ES2301 G2 (L3) CSE Venue: L-21 Dr. Rupali",
       "id": "ocr-049",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -484,9 +410,7 @@
       "end": 900,
       "text": "\u00a352301 (L2} PROD Venue: L-30 Voibhev",
       "id": "ocr-050",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -497,9 +421,7 @@
       "end": 900,
       "text": "E5230] G1 {L3) EE Venue: L-30 Hardavinder",
       "id": "ocr-051",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -510,9 +432,7 @@
       "end": 900,
       "text": "ES$2301 G2 {L3) EE Venue: L-31 Himoni",
       "id": "ocr-052",
-      "rooms": [
-        "L31"
-      ],
+      "rooms": ["L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -523,9 +443,7 @@
       "end": 1020,
       "text": "ES2301 LAB F3 CIVIL Venue: DS Lab Or. Marta Dabra + Ms, Jogminder + Ms. Sonehi PhD Scholars: Ms. Romanpreet Kaur, Mr. Karonvir Botish M.Tech Scholar: Nasir Khan",
       "id": "ocr-053",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -536,9 +454,7 @@
       "end": 960,
       "text": "ES2301 G2 {L1) CSE Yenue: L-31 Dr. Rupali",
       "id": "ocr-055",
-      "rooms": [
-        "L31"
-      ],
+      "rooms": ["L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -549,9 +465,7 @@
       "end": 1020,
       "text": "ES2301 LAB DS Venue: DS Lab - Mr. Hordavinder PhD Scholars: Mr, Uttam Mittal and Mr, Shivansh Goyal",
       "id": "ocr-056",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -562,9 +476,7 @@
       "end": 960,
       "text": "ES2301 (13) DS Venue: L-21 Dr. Mamta Dobro",
       "id": "ocr-057",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -575,9 +487,7 @@
       "end": 1020,
       "text": "ES2301 LAB F1 EE Venue. DS Lab Or Amite + Or. Ravpreet",
       "id": "ocr-058",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -588,9 +498,7 @@
       "end": 1020,
       "text": "E52301 {L1) PROD Venue: L-22 Dr. Vaibhow",
       "id": "ocr-059",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -601,9 +509,7 @@
       "end": 1020,
       "text": "E$2361 G1 [L2) CSE Venue: L-30 DOr. Mamta Dabra",
       "id": "ocr-060",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -614,9 +520,7 @@
       "end": 1020,
       "text": "E$2301 G2 (2) CSE Venue: L-31 Or Rupali",
       "id": "ocr-061",
-      "rooms": [
-        "L31"
-      ],
+      "rooms": ["L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -627,9 +531,7 @@
       "end": 600,
       "text": "Lab: CVIP 303 \u2014 Dr. Ravpreet",
       "id": "ocr-062",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -640,12 +542,7 @@
       "end": 540,
       "text": "HSM ill G3 L26-L29",
       "id": "ocr-063",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -656,9 +553,7 @@
       "end": 660,
       "text": "DEC-I! (L): NLP L407 \u2014 Dr. Neera]",
       "id": "ocr-069",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -669,9 +564,7 @@
       "end": 660,
       "text": "DEC-I: CVIP L22 Dr. Ravpreet",
       "id": "ocr-071",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -682,10 +575,7 @@
       "end": 720,
       "text": "WMN Lab (combined w/ CSE+DS) 306+303 \u2014 Sanehi",
       "id": "ocr-072",
-      "rooms": [
-        "LAB303",
-        "LAB306"
-      ],
+      "rooms": ["LAB303", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -696,9 +586,7 @@
       "end": 720,
       "text": "WMWN {combined w/ CSE+D5} 303 Sanehi",
       "id": "ocr-075",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -709,9 +597,7 @@
       "end": 720,
       "text": "WMI {combined w/ CSE+D5) 303 Sanehi",
       "id": "ocr-077",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -722,12 +608,7 @@
       "end": 780,
       "text": "HSM Il G1 L26-L29",
       "id": "ocr-078",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -738,12 +619,7 @@
       "end": 780,
       "text": "HSM II] G1 L26-L29",
       "id": "ocr-079",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -754,10 +630,7 @@
       "end": 780,
       "text": "HSM Ill (Tute} L26: L31",
       "id": "ocr-080",
-      "rooms": [
-        "L26",
-        "L31"
-      ],
+      "rooms": ["L26", "L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -768,12 +641,7 @@
       "end": 780,
       "text": "HSM Ill G2 (L26- L29)",
       "id": "ocr-081",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -784,9 +652,7 @@
       "end": 780,
       "text": "HSM It G2 {L26- 129)",
       "id": "ocr-082",
-      "rooms": [
-        "L26"
-      ],
+      "rooms": ["L26"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -797,9 +663,7 @@
       "end": 900,
       "text": "DEC-II{L): NLP - Or. Neeraj L22",
       "id": "ocr-084",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -810,9 +674,7 @@
       "end": 900,
       "text": "DEC-I- CVIP L407 = Or, Ravpreet",
       "id": "ocr-085",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -823,9 +685,7 @@
       "end": 900,
       "text": "DEC-1: CVIP L22 Or. Ravpreet",
       "id": "ocr-086",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -836,9 +696,7 @@
       "end": 960,
       "text": "DEC-II (L): NLP L405 = Dr. Neeraj",
       "id": "ocr-090",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -849,12 +707,7 @@
       "end": 1020,
       "text": "HSM III (Tute) L21, L22, L26, L27",
       "id": "ocr-092",
-      "rooms": [
-        "L21",
-        "L22",
-        "L26",
-        "L27"
-      ],
+      "rooms": ["L21", "L22", "L26", "L27"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -865,13 +718,7 @@
       "end": 1020,
       "text": "HSM tll (Tute} L10, L121, L26-29",
       "id": "ocr-095",
-      "rooms": [
-        "L10",
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L10", "L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -882,9 +729,7 @@
       "end": 1020,
       "text": "HSM Ill G2 126-L29",
       "id": "ocr-096",
-      "rooms": [
-        "L29"
-      ],
+      "rooms": ["L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -895,12 +740,7 @@
       "end": 540,
       "text": "HSM Ill G3 L26-L29",
       "id": "ocr-098",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -911,11 +751,7 @@
       "end": 600,
       "text": "Lab: DIS 303+306 \u2014 Dr, Divya Bansat/Or. Pooja DIP CL13+C\u20acL14 = Dr. Nitin Kumar",
       "id": "ocr-100",
-      "rooms": [
-        "CL13",
-        "LAB303",
-        "LAB306"
-      ],
+      "rooms": ["CL13", "LAB303", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -926,9 +762,7 @@
       "end": 600,
       "text": "DEC-IAILA 405 - Dr. Arvind (CSE {DS} 7th Sem]",
       "id": "ocr-102",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -939,9 +773,7 @@
       "end": 600,
       "text": "DEC-I: DIP (combined w/ CSE} L407 \u2014- Dr. Nitin Kumar",
       "id": "ocr-103",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -952,9 +784,7 @@
       "end": 660,
       "text": "DEC-I: DiS L406 \u2014 Dr. Divya Bansal\u00bb",
       "id": "ocr-106",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -965,10 +795,7 @@
       "end": 660,
       "text": "DEC-I: DIS L406 = Dr. Divya Bansal sd DIP (combined w/ CSE) L405 \u2014- Dr. Nitin Kumar",
       "id": "ocr-108",
-      "rooms": [
-        "L405",
-        "L406"
-      ],
+      "rooms": ["L405", "L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -979,9 +806,7 @@
       "end": 660,
       "text": "DIS - . Dr. Divya Bansal #406",
       "id": "ocr-109",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -992,9 +817,7 @@
       "end": 720,
       "text": "WMN (combined w/ DS+Al) 303 - Dr. Sanehi",
       "id": "ocr-112",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1005,9 +828,7 @@
       "end": 720,
       "text": "WMWN (combined w/ CSE+Ai} 303 - Dr. Sanehi",
       "id": "ocr-114",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1018,12 +839,7 @@
       "end": 780,
       "text": "HSM Ill G1 L26-L29",
       "id": "ocr-115",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1034,12 +850,7 @@
       "end": 780,
       "text": "HSM III G1 L26-L29",
       "id": "ocr-116",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1050,14 +861,7 @@
       "end": 780,
       "text": "HSM Ili (Tute) L26- L31",
       "id": "ocr-117",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29",
-        "L30",
-        "L31"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29", "L30", "L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1068,10 +872,7 @@
       "end": 780,
       "text": "HSM IH G2 {L26\u2014-L29)",
       "id": "ocr-118",
-      "rooms": [
-        "L26",
-        "L29"
-      ],
+      "rooms": ["L26", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1082,13 +883,7 @@
       "end": 780,
       "text": "HSM 11 G3 (L26-L29) DEC-II: DIP {combined w/ DS) 406 \u2014 Dr. Nitin Kumar",
       "id": "ocr-119",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29",
-        "L406"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29", "L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1099,10 +894,7 @@
       "end": 900,
       "text": "DEC-II: AILA 402 - Or. Arvind WMN (combined w/ DS+Al) 303 \u2014 Dr. Sanehi",
       "id": "ocr-121",
-      "rooms": [
-        "LAB303",
-        "LAB402"
-      ],
+      "rooms": ["LAB303", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1113,9 +905,7 @@
       "end": 900,
       "text": "DEC-II: AILA L19 - Dr. Arvind",
       "id": "ocr-122",
-      "rooms": [
-        "L19"
-      ],
+      "rooms": ["L19"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1126,10 +916,7 @@
       "end": 1020,
       "text": "WMWN tab (combined w/ CSE+Al} 301\u2014 Dr. Sanehi Lab: AILA 305 \u2014 Or. Arvind",
       "id": "ocr-127",
-      "rooms": [
-        "LAB301",
-        "LAB305"
-      ],
+      "rooms": ["LAB301", "LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1140,12 +927,7 @@
       "end": 1020,
       "text": "HSM lil (Tute) L24, L22, L26, L27",
       "id": "ocr-129",
-      "rooms": [
-        "L22",
-        "L24",
-        "L26",
-        "L27"
-      ],
+      "rooms": ["L22", "L24", "L26", "L27"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1156,13 +938,7 @@
       "end": 1020,
       "text": "HSM II (Tute} L210, L11, L26-29",
       "id": "ocr-130",
-      "rooms": [
-        "L11",
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L11", "L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1173,9 +949,7 @@
       "end": 1020,
       "text": "HSM Ill G2 L26-L2S",
       "id": "ocr-131",
-      "rooms": [
-        "L26"
-      ],
+      "rooms": ["L26"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1186,9 +960,7 @@
       "end": 600,
       "text": "Lab: Deep Learning (G1)+ Deep Learning (G2} \u2014 Or. Navdeep and Dr, Rubal DS lab",
       "id": "ocr-132",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1199,12 +971,7 @@
       "end": 540,
       "text": "HSM il G3 L26-L29",
       "id": "ocr-133",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1215,9 +982,7 @@
       "end": 540,
       "text": "DEC-: Deep Learning {G1+G2) L21 - Dr. Navdeep",
       "id": "ocr-134",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1228,11 +993,7 @@
       "end": 600,
       "text": "Lab: Cloud Computing (G1+G2) DS Lab: - Dr. Vivek Dabra OIP CL13+CL14 \u2014 Dr. Nitin Kumar",
       "id": "ocr-135",
-      "rooms": [
-        "CL13",
-        "CL14",
-        "DS-LAB"
-      ],
+      "rooms": ["CL13", "CL14", "DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1243,9 +1004,7 @@
       "end": 600,
       "text": "DEC-I: Cloud Computing {G1+G2) 121 =\u2014Dr. Vivek Dabra DIP {combined w/ DS} L407 \u2014 Dr. Nitin Kumar",
       "id": "ocr-137",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1256,10 +1015,7 @@
       "end": 600,
       "text": "OE-II (respective dept classrooms} OE-II DAIR: L19+407 Dr. Amanjot+ Dr. Suraj",
       "id": "ocr-138",
-      "rooms": [
-        "L19",
-        "L407"
-      ],
+      "rooms": ["L19", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1270,10 +1026,7 @@
       "end": 600,
       "text": "OE-II (respective dept classrooms) OE-II DAIR: L19+407 Dr. Amanjot+ Dr. Suraj",
       "id": "ocr-139",
-      "rooms": [
-        "L19",
-        "L407"
-      ],
+      "rooms": ["L19", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1284,9 +1037,7 @@
       "end": 660,
       "text": "Deep Learning (G1+G2) L30 - Dr Navdeep",
       "id": "ocr-140",
-      "rooms": [
-        "L30"
-      ],
+      "rooms": ["L30"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1297,10 +1048,7 @@
       "end": 660,
       "text": "OE-II (respective dept classrooms) OE-tI DAIR: L19+407 Dr. Amanjot+ Dr. Suraj",
       "id": "ocr-141",
-      "rooms": [
-        "L19",
-        "L407"
-      ],
+      "rooms": ["L19", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1311,10 +1059,7 @@
       "end": 660,
       "text": "DEC-H: Cloud Computing {G1+G2) L21 - Or. Vivek Dabra DIP (combined w/ DS) L405 - Dr. Nitin Kumar",
       "id": "ocr-142",
-      "rooms": [
-        "L21",
-        "L405"
-      ],
+      "rooms": ["L21", "L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1325,10 +1070,7 @@
       "end": 720,
       "text": "WMI Lab {combined w/ DS+Al) 306+303 - Dr. Sanehi",
       "id": "ocr-143",
-      "rooms": [
-        "LAB303",
-        "LAB306"
-      ],
+      "rooms": ["LAB303", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1339,9 +1081,7 @@
       "end": 720,
       "text": "WMN (combined w/ DS+Al) 303 -Or. Sanehi",
       "id": "ocr-146",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1352,9 +1092,7 @@
       "end": 720,
       "text": "WMIN (combined w/ DS+Al) 303- Br. Sanehi",
       "id": "ocr-148",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1365,12 +1103,7 @@
       "end": 780,
       "text": "HSM Ill G1 L26-L29",
       "id": "ocr-149",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1381,12 +1114,7 @@
       "end": 780,
       "text": "HSM Ill G1 L26-L29",
       "id": "ocr-150",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1397,14 +1125,7 @@
       "end": 780,
       "text": "HSM It (Tute) L26- L31",
       "id": "ocr-151",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29",
-        "L30",
-        "L31"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29", "L30", "L31"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1415,12 +1136,7 @@
       "end": 780,
       "text": "HSM lil G2 (L26- L29)",
       "id": "ocr-152",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1431,13 +1147,7 @@
       "end": 780,
       "text": "HSM Hl G3 L26-L29 DEC-I: DIP (combined w/ DS) 406 ~ Dr. Nitin Kumar",
       "id": "ocr-153",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29",
-        "L406"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29", "L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1448,10 +1158,7 @@
       "end": 960,
       "text": "OE-I1 Tute/Practical (respective dept tute raoms/tabs) OE-Il DAIR LAB CL13+CL14 Dr. Neeraj/Amanjot+Or. Suraj",
       "id": "ocr-154",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1462,9 +1169,7 @@
       "end": 900,
       "text": "WMN {combined w/ DS+Al) 303 = Or Sanehi",
       "id": "ocr-155",
-      "rooms": [
-        "LAB303"
-      ],
+      "rooms": ["LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1475,9 +1180,7 @@
       "end": 900,
       "text": "DEC-II. Cloud Computing (G1+G2} L22\u2014- Or. Vivek Dabra",
       "id": "ocr-156",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1488,9 +1191,7 @@
       "end": 900,
       "text": "DEC-I: Deep Learning (G1+G2) L21 = Dr. Navdeep",
       "id": "ocr-157",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1501,12 +1202,7 @@
       "end": 960,
       "text": "OE-{I Tute/Practical (respective dept tute rooms/labs) OE-I) Tute/Practical DAJR LAB Additional slot Dr. Suraj+Or. Neeraj/Amanjot 301+303+306+304",
       "id": "ocr-158",
-      "rooms": [
-        "LAB301",
-        "LAB303",
-        "LAB304",
-        "LAB306"
-      ],
+      "rooms": ["LAB301", "LAB303", "LAB304", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1517,10 +1213,7 @@
       "end": 1020,
       "text": "HSM Ilf (Tute) L214, 122, L26, L27",
       "id": "ocr-163",
-      "rooms": [
-        "L26",
-        "L27"
-      ],
+      "rooms": ["L26", "L27"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1531,10 +1224,7 @@
       "end": 1020,
       "text": "HSM Ill (Tute) L10, L11, 126-29",
       "id": "ocr-165",
-      "rooms": [
-        "L10",
-        "L11"
-      ],
+      "rooms": ["L10", "L11"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1545,12 +1235,7 @@
       "end": 1020,
       "text": "HSM Ill G2 L26-L29",
       "id": "ocr-166",
-      "rooms": [
-        "L26",
-        "L27",
-        "L28",
-        "L29"
-      ],
+      "rooms": ["L26", "L27", "L28", "L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1561,9 +1246,7 @@
       "end": 540,
       "text": "AINSOO1 TOC (L} L407 backlog \u2014 Dr. Ravpreet",
       "id": "ocr-167",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1574,9 +1257,7 @@
       "end": 600,
       "text": "AINSOO3 HMI L406 - Dr. Alka tindal",
       "id": "ocr-169",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1587,9 +1268,7 @@
       "end": 600,
       "text": "AINSOO1 TOC {L} L21 \u2014 Or. Ravpreet",
       "id": "ocr-170",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1600,9 +1279,7 @@
       "end": 600,
       "text": "AINSOO1 TOC (L) L407 \u2014 Dr. Ravpreet",
       "id": "ocr-171",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1613,9 +1290,7 @@
       "end": 600,
       "text": "AINSOO3 HMI L406 \u2014 Dr. Alka Jindal",
       "id": "ocr-172",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1626,9 +1301,7 @@
       "end": 660,
       "text": "AINS004 CN L406 \u2014 Dr. Divya Bansal + Pooja",
       "id": "ocr-173",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1639,9 +1312,7 @@
       "end": 660,
       "text": "AINSOO2 DL L19 \u2014- Dr. Padmavati",
       "id": "ocr-175",
-      "rooms": [
-        "L19"
-      ],
+      "rooms": ["L19"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1652,9 +1323,7 @@
       "end": 720,
       "text": "AINS5004 CN Lab (Al2} 304 - Or. Divya Bansal + Pooja AINSOO3 HMI Lab (Ai1) CLS -Or. Alka Jindal",
       "id": "ocr-176",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1665,10 +1334,7 @@
       "end": 780,
       "text": "AINSOO2 DL Lab {Al2] CL5\u2014 Br. Padmavati AINSO04 CN Lab (Al1} CL13 - Or. Divya Bansal + Pooja",
       "id": "ocr-177",
-      "rooms": [
-        "CL13",
-        "CL5"
-      ],
+      "rooms": ["CL13", "CL5"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1679,10 +1345,7 @@
       "end": 780,
       "text": "AIN5003 HMI Lab (Al2) CL14 \u2014Or. Alka Jindal AINSOO2 BL Lab (Ai) CL13 - Dr. Padmavati",
       "id": "ocr-178",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1693,9 +1356,7 @@
       "end": 720,
       "text": "AINSOO3 HMI L407 \u2014 Dr. Alka Jindal",
       "id": "ocr-179",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1706,9 +1367,7 @@
       "end": 720,
       "text": "AINSOO1 TOC Tut Al1+Al2, 402 Dr. Ravpreet",
       "id": "ocr-180",
-      "rooms": [
-        "LAB402"
-      ],
+      "rooms": ["LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1719,9 +1378,7 @@
       "end": 780,
       "text": "AIN5004 CN L406 - Dr. Divya Bansal + Pooja",
       "id": "ocr-181",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1732,9 +1389,7 @@
       "end": 780,
       "text": "AINSOO2 DL 305 = Dr. Padmavati",
       "id": "ocr-182",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1745,9 +1400,7 @@
       "end": 780,
       "text": "AINSO0O4 CN - Dr Divya Bansal + Pooja #305",
       "id": "ocr-183",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1758,9 +1411,7 @@
       "end": 900,
       "text": "AIN5001 TOC {L} L406 ~Dr. Ravpreet",
       "id": "ocr-184",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1771,9 +1422,7 @@
       "end": 960,
       "text": "AINSOQ2 DL L406 = Dr Padmavat",
       "id": "ocr-189",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1784,9 +1433,7 @@
       "end": 1020,
       "text": "MISC Lab (AIM21003 HMI \u2014 Dr. Alka Jindal) L406",
       "id": "ocr-190",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1797,9 +1444,7 @@
       "end": 1020,
       "text": "MSC L (AIM1003 HMI \u2014 Dr, Alka Jindal) L406",
       "id": "ocr-191",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1810,9 +1455,7 @@
       "end": 1020,
       "text": "MSC L (AIM1003 HMI - Or. Alka Jindal) L406",
       "id": "ocr-192",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1823,9 +1466,7 @@
       "end": 1020,
       "text": "MSC L (AIM1003 HM! - Or. Alka Jindal) L406",
       "id": "ocr-193",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1836,9 +1477,7 @@
       "end": 600,
       "text": "DSNS001 DAIR L40s - Dr. Suraj Srivastava",
       "id": "ocr-195",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1849,11 +1488,7 @@
       "end": 720,
       "text": "DSN5001 DAIR Lab (DS2+DS$3)} 301+CL14 \u2014 Dr. Suraj Srivastava DSN5002 ATDS Lak (081) 402 \u2014 Dr. Manish Kumar",
       "id": "ocr-198",
-      "rooms": [
-        "CL14",
-        "LAB301",
-        "LAB402"
-      ],
+      "rooms": ["CL14", "LAB301", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1864,9 +1499,7 @@
       "end": 660,
       "text": "DSNS003 SE L405 - Dr. Rajesh Shatia",
       "id": "ocr-199",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1877,9 +1510,7 @@
       "end": 660,
       "text": "DSN5001 DAIR 407 \u2014 Dr. Suraj Srivastava",
       "id": "ocr-200",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1890,9 +1521,7 @@
       "end": 660,
       "text": "OSNSO03 SE L407 - Or. Rajesh Bhatia",
       "id": "ocr-201",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1903,9 +1532,7 @@
       "end": 660,
       "text": "DSN5002 ATBS L405 = Dr. Manish Kumar",
       "id": "ocr-202",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1916,10 +1543,7 @@
       "end": 780,
       "text": "DSN5002 ATDS Lab {DS2] 301 \u2014 Dr. Manish Kumar DSNS001 DAIR Lab (DS4) 402 - Br. Suraj Srivastava",
       "id": "ocr-203",
-      "rooms": [
-        "LAB301",
-        "LAB402"
-      ],
+      "rooms": ["LAB301", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1930,11 +1554,7 @@
       "end": 780,
       "text": "DSNS003 SE Lab (DS1+052) 301+306 \u2014 Dr. Rajesh Bhatia DSN5002 ATDS Lab (DS3+D$4) 305 fab \u2014 Dr. Manish Kumar",
       "id": "ocr-204",
-      "rooms": [
-        "LAB301",
-        "LAB305",
-        "LAB306"
-      ],
+      "rooms": ["LAB301", "LAB305", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1945,9 +1565,7 @@
       "end": 720,
       "text": "DSN5004 IoT L406 - Ms.Ishita",
       "id": "ocr-206",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1958,9 +1576,7 @@
       "end": 780,
       "text": "DSNS004 loT L407 \u2014 Ms.Ishita",
       "id": "ocr-207",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1971,9 +1587,7 @@
       "end": 780,
       "text": "OSNS002 ATDS L405 - Dr. Manish Kumar",
       "id": "ocr-208",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1984,11 +1598,7 @@
       "end": 960,
       "text": "DSN5003 SE Lab (D$3+DS4) 303+306 \u2014 Dr. Rajesh Bhatia DSN5001 DAIR Lab (D$1} 402 - Or. Suraj Srivastava",
       "id": "ocr-212",
-      "rooms": [
-        "LAB303",
-        "LAB306",
-        "LAB402"
-      ],
+      "rooms": ["LAB303", "LAB306", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -1999,10 +1609,7 @@
       "end": 960,
       "text": "DSNS004 IoT Lab (D$1+DS2+D$3+DS$4) 3054+CL13+CL14 - Sanehi",
       "id": "ocr-213",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2013,9 +1620,7 @@
       "end": 960,
       "text": "DSN5002 ATDS L407 \u2014 Dr. Manish Kumar",
       "id": "ocr-215",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2026,9 +1631,7 @@
       "end": 960,
       "text": "DSN5004 loT L407 - Ms. Ishita",
       "id": "ocr-216",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2039,9 +1642,7 @@
       "end": 1020,
       "text": "MSC Lab (DSM1003 ATDS \u2014 Dr. Manish Kumar} L407",
       "id": "ocr-217",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2052,9 +1653,7 @@
       "end": 1020,
       "text": "MSC L (DSM1003 ATDS ~ Dr. Manish Kumar) L407",
       "id": "ocr-218",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2065,9 +1664,7 @@
       "end": 1020,
       "text": "MSC L (DSM1003 ATDS \u2014 Dr. Manish Kumar) L407",
       "id": "ocr-220",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2078,10 +1675,7 @@
       "end": 600,
       "text": "CSN5004 DBMS Lab (CSE1,CSE2) 402+306- Dr. Shilpa",
       "id": "ocr-223",
-      "rooms": [
-        "LAB306",
-        "LAB402"
-      ],
+      "rooms": ["LAB306", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2092,9 +1686,7 @@
       "end": 600,
       "text": "CSN5003 SE (G1) L21 -- Or. Tejinder",
       "id": "ocr-226",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2105,9 +1697,7 @@
       "end": 660,
       "text": "CSNS002 SC Lab (CSES,CSE6) 305 Dr. Dipika",
       "id": "ocr-227",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2118,9 +1708,7 @@
       "end": 660,
       "text": "CSNS003 SE Lab (CSE3,CSE4) Lab 301= Ms. Shivani/Or Tejinder",
       "id": "ocr-228",
-      "rooms": [
-        "LAB301"
-      ],
+      "rooms": ["LAB301"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2131,10 +1719,7 @@
       "end": 600,
       "text": "CSN5002 SC (G1) L21 - Dr. Dipika CSNS004 DBMS (G2) L22 - Dr. Shilpa",
       "id": "ocr-229",
-      "rooms": [
-        "L21",
-        "L22"
-      ],
+      "rooms": ["L21", "L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2145,10 +1730,7 @@
       "end": 660,
       "text": "CSN5001(G1)} L21 \u2014 Or. Sandeep Harit CSNSOO03 SE {G2} L22 \u2014 Dr. Tejinder",
       "id": "ocr-230",
-      "rooms": [
-        "L21",
-        "L22"
-      ],
+      "rooms": ["L21", "L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2159,10 +1741,7 @@
       "end": 720,
       "text": "CSNSOO3 SE Lab (CSES,CSE6}) CL13+CLS \u2014 Or. Shivani/Or. Tejinder CSN5004 DBMS Lab (CSE7) CL14 \u2014 Dr, Shilpa",
       "id": "ocr-231",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2173,13 +1752,7 @@
       "end": 720,
       "text": "CSNS002 SC Lab (CSE7) 301 ~\u2014 Dr, Dipika CSNS003 SE Lab (CSE1,CSE2) 303+CL13 \u2014 Or. Tejinder+Ms. Shivani CSNS004 DBMS Lab (CSE3,CSE4) 402+L407 \u2014 Dr. Shilpa",
       "id": "ocr-232",
-      "rooms": [
-        "CL13",
-        "L407",
-        "LAB301",
-        "LAB303",
-        "LAB402"
-      ],
+      "rooms": ["CL13", "L407", "LAB301", "LAB303", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2190,10 +1763,7 @@
       "end": 720,
       "text": "CSN5001 TOC Tut {CSE3,CSE4) 304+306 - Dr, Sandeep Harit +Dr. Ravporeet",
       "id": "ocr-233",
-      "rooms": [
-        "LAB304",
-        "LAB306"
-      ],
+      "rooms": ["LAB304", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2204,10 +1774,7 @@
       "end": 720,
       "text": "CSNS004 DBMS (G1) L22 \u2014 Dr. Shilpa CSNS001 (G2) L407 = Dr. Sandeep Harit",
       "id": "ocr-234",
-      "rooms": [
-        "L22",
-        "L407"
-      ],
+      "rooms": ["L22", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2218,9 +1785,7 @@
       "end": 780,
       "text": "C5N5002 SC Lab (CSE1, CSE2, CSE3, CSE4) DS lab Or. Dipika",
       "id": "ocr-235",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2231,10 +1796,7 @@
       "end": 720,
       "text": "CSNS002 SC (G2} L406 \u2014 Dr. Dipika CSN5003 SE (G1) L407 \u2014 Dr. Tejinder",
       "id": "ocr-236",
-      "rooms": [
-        "L406",
-        "L407"
-      ],
+      "rooms": ["L406", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2245,10 +1807,7 @@
       "end": 780,
       "text": "C5N5001 TOC Tut (CSE1,CSE2) 304+306 \u2014 Dr. Sandeep Harit +Dr. Ravpreet",
       "id": "ocr-237",
-      "rooms": [
-        "LAB304",
-        "LAB306"
-      ],
+      "rooms": ["LAB304", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2259,10 +1818,7 @@
       "end": 780,
       "text": "CSNSC02 SC (G1} L407 \u2014 Or. Dipika C5NS004 DBMS (G2) L406 \u2014 Dr. Shilpa",
       "id": "ocr-238",
-      "rooms": [
-        "L406",
-        "L407"
-      ],
+      "rooms": ["L406", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2273,10 +1829,7 @@
       "end": 780,
       "text": "CSN5004 DBMS (G1) L407 \u2014 Dr. Shilpa CSN5003 SE (G2) L30\u2014 Dr. Tejinder",
       "id": "ocr-239",
-      "rooms": [
-        "L30",
-        "L407"
-      ],
+      "rooms": ["L30", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2287,9 +1840,7 @@
       "end": 780,
       "text": "CSN5004 DBMS (G1) 407 - Dr. Shilpa",
       "id": "ocr-240",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2300,9 +1851,7 @@
       "end": 900,
       "text": "CSN5001 (G2) L21 = Or Sandeep Harit",
       "id": "ocr-242",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2313,10 +1862,7 @@
       "end": 900,
       "text": "CSN5001 TOC Tut (CSES,CSE6) 301+306- Dr Sandeep Harit +Dr. Ravpreet",
       "id": "ocr-243",
-      "rooms": [
-        "LAB301",
-        "LAB306"
-      ],
+      "rooms": ["LAB301", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2327,10 +1873,7 @@
       "end": 900,
       "text": "CSN500]1 (G1) L21 \u2014 Dr. Sandeep Harit CSNSOO02 SC (G2) 405 = Dr. Dipika",
       "id": "ocr-244",
-      "rooms": [
-        "L21",
-        "L405"
-      ],
+      "rooms": ["L21", "L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2341,9 +1884,7 @@
       "end": 960,
       "text": "CSN5003 SE Lab (CSE7) 306 ~ Dr. Tejinder/Shivani CSNS004 DBMS Lab (CSES,CSE6) 4024301 - Dr. Shilpa",
       "id": "ocr-245",
-      "rooms": [
-        "LAB306"
-      ],
+      "rooms": ["LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2354,10 +1895,7 @@
       "end": 960,
       "text": "CSN5002 SC (G1) L21 - Dr, Dipika CSN5004 DBMS (G2) L22 \u2014 Dr. Shilpa",
       "id": "ocr-247",
-      "rooms": [
-        "L21",
-        "L22"
-      ],
+      "rooms": ["L21", "L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2368,10 +1906,7 @@
       "end": 960,
       "text": "CSNSO001 TOC Tut (CSE7) 304 \u2014 Dr. Sandeep Harit +Dr. Ravpreet CSN5003 SE (G2) L21 -\u2014 Dr. Tejinder",
       "id": "ocr-248",
-      "rooms": [
-        "L21",
-        "LAB304"
-      ],
+      "rooms": ["L21", "LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2382,9 +1917,7 @@
       "end": 1020,
       "text": "MSC Lab (CSM1003 DBMS \u2014 Dr, Pravneet Kaur) L22",
       "id": "ocr-250",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2395,9 +1928,7 @@
       "end": 1020,
       "text": "MSC L (CSM1003 DBMS - Or. Pravneet Kaur) L19",
       "id": "ocr-251",
-      "rooms": [
-        "L19"
-      ],
+      "rooms": ["L19"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2408,9 +1939,7 @@
       "end": 1020,
       "text": "MISC L (CSM1003 DBMS - Dr. Pravneet Kaur) L22",
       "id": "ocr-253",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2421,10 +1950,7 @@
       "end": 1020,
       "text": "CSN5001 TOC (G1} L21 = Dr. Sandeep Harit CSNSO0O2 SC (G2) L22 = Dr. Dipika",
       "id": "ocr-254",
-      "rooms": [
-        "L21",
-        "L22"
-      ],
+      "rooms": ["L21", "L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2435,9 +1961,7 @@
       "end": 660,
       "text": "AIN3004 MFAI Lab {Al1) 402 \u2014 Nitin Kumar",
       "id": "ocr-256",
-      "rooms": [
-        "LAB402"
-      ],
+      "rooms": ["LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2448,10 +1972,7 @@
       "end": 660,
       "text": "AIN3001 DS Lab (Al2) 305 -\u2014 Sudesh Rani",
       "id": "ocr-257",
-      "rooms": [
-        "DS-LAB",
-        "LAB305"
-      ],
+      "rooms": ["DS-LAB", "LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2462,9 +1983,7 @@
       "end": 600,
       "text": "AIN3001 DS L406 \u2014 Sudesh Rani",
       "id": "ocr-258",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2475,9 +1994,7 @@
       "end": 600,
       "text": "AIN3001 DS L405 - Sudesh Rani",
       "id": "ocr-259",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2488,9 +2005,7 @@
       "end": 660,
       "text": "HSM-I G1-G4 (L405)",
       "id": "ocr-260",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2501,9 +2016,7 @@
       "end": 720,
       "text": "AIN3003 DSML Lab {Al1) CL5 \u2014 Shailendra Singh",
       "id": "ocr-261",
-      "rooms": [
-        "CL5"
-      ],
+      "rooms": ["CL5"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2514,9 +2027,7 @@
       "end": 720,
       "text": "AIN3004 MFAI Lab (Al2) CL13-\u2014 Nitin Kumar",
       "id": "ocr-262",
-      "rooms": [
-        "CL13"
-      ],
+      "rooms": ["CL13"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2527,9 +2038,7 @@
       "end": 660,
       "text": "AIN3003 OSML L406 - Shailendra Singh",
       "id": "ocr-263",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2540,9 +2049,7 @@
       "end": 720,
       "text": "AIN3003 DSML L22 - Shailendra Singh",
       "id": "ocr-264",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2553,9 +2060,7 @@
       "end": 720,
       "text": "AIN3004 MFAI L406 \u2014 Nitin Kumar",
       "id": "ocr-265",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2566,9 +2071,7 @@
       "end": 720,
       "text": "AIN3003 DSML L406 - Shailendra Singh",
       "id": "ocr-266",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2579,9 +2082,7 @@
       "end": 780,
       "text": "AIN3002 OOP 305 Satnam Kaur",
       "id": "ocr-269",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2592,9 +2093,7 @@
       "end": 780,
       "text": "AIN3004 MFA! L406 = Nitin Kumar",
       "id": "ocr-271",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2605,10 +2104,7 @@
       "end": 960,
       "text": "AIN3001 DS Lab (Al1} 402 - Sudesh Rani AIN3002 OOP Lab (Al2} CLS \u2014 Satnam Kaur",
       "id": "ocr-273",
-      "rooms": [
-        "DS-LAB",
-        "LAB402"
-      ],
+      "rooms": ["DS-LAB", "LAB402"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2619,9 +2115,7 @@
       "end": 900,
       "text": "AIN3001 DS L406 Sudesh Rani",
       "id": "ocr-277",
-      "rooms": [
-        "L406"
-      ],
+      "rooms": ["L406"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2632,9 +2126,7 @@
       "end": 900,
       "text": "AIN3002 DOP 405 - Satnam Kaur",
       "id": "ocr-278",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2645,13 +2137,7 @@
       "end": 1020,
       "text": "HSM<Il (T) (L405, L406, L407, T-9, T-21, T-12)",
       "id": "ocr-284",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407",
-        "T12",
-        "T9"
-      ],
+      "rooms": ["L405", "L406", "L407", "T12", "T9"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2662,10 +2148,7 @@
       "end": 660,
       "text": "DSN3003 OS Lab (DS3) 306 \u2014- Ramteke Mamta DSN3002 PDS Lab (DS1) CL13 \u2014 Kanu Goel",
       "id": "ocr-285",
-      "rooms": [
-        "CL13",
-        "LAB306"
-      ],
+      "rooms": ["CL13", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2676,10 +2159,7 @@
       "end": 660,
       "text": "DSN3001 DS Lab (DS3) 306 \u2014 Sudesh Rani",
       "id": "ocr-286",
-      "rooms": [
-        "DS-LAB",
-        "LAB306"
-      ],
+      "rooms": ["DS-LAB", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2690,9 +2170,7 @@
       "end": 660,
       "text": "DSN3002 PDS Lab (DS3} 304\u2014 Kanu Goel",
       "id": "ocr-287",
-      "rooms": [
-        "LAB304"
-      ],
+      "rooms": ["LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2703,11 +2181,7 @@
       "end": 660,
       "text": "DSN3001 DS Lab (DS1, DS2) 301+305 = Sudesh Ran",
       "id": "ocr-288",
-      "rooms": [
-        "DS-LAB",
-        "LAB301",
-        "LAB305"
-      ],
+      "rooms": ["DS-LAB", "LAB301", "LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2718,9 +2192,7 @@
       "end": 660,
       "text": "DSN3003 OS Lab (DS1, DS2) 305 \u2014Ramteke Mamta",
       "id": "ocr-289",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2731,9 +2203,7 @@
       "end": 660,
       "text": "DSN3002 PDS Lab (DS2} 306\u2014 Kanu Goel",
       "id": "ocr-290",
-      "rooms": [
-        "LAB306"
-      ],
+      "rooms": ["LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2744,9 +2214,7 @@
       "end": 660,
       "text": "DSN3004 CN Lab (D$3)} CL14\u2014Trilok Chand",
       "id": "ocr-291",
-      "rooms": [
-        "CL14"
-      ],
+      "rooms": ["CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2757,11 +2225,7 @@
       "end": 720,
       "text": "HSM-Il G1-G4 (L405, L406, L407)",
       "id": "ocr-292",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407"
-      ],
+      "rooms": ["L405", "L406", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2772,9 +2236,7 @@
       "end": 720,
       "text": "OSN3002 PDS L405 = Kanu Goe",
       "id": "ocr-293",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2785,9 +2247,7 @@
       "end": 720,
       "text": "DSN3004 CN L405 - Trilok Chand",
       "id": "ocr-295",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2798,9 +2258,7 @@
       "end": 720,
       "text": "DSN3004 CN L405 = Trilok Chand",
       "id": "ocr-296",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2811,9 +2269,7 @@
       "end": 780,
       "text": "DSN3001 DS L405 Sudesh Rani",
       "id": "ocr-297",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2824,9 +2280,7 @@
       "end": 780,
       "text": "DSN3004 CN L405 - Trilok Chand",
       "id": "ocr-298",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2837,9 +2291,7 @@
       "end": 780,
       "text": "DSN3003 OS 405 - Ramteke Mamta",
       "id": "ocr-299",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2850,9 +2302,7 @@
       "end": 780,
       "text": "DSN3002 PDS L22 = Kanu Goel",
       "id": "ocr-300",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2863,9 +2313,7 @@
       "end": 900,
       "text": "DSN3003 OS L407 - Ramteke Mamta",
       "id": "ocr-301",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2876,9 +2324,7 @@
       "end": 900,
       "text": "OSN3001 DS L21- Sudesh Rani",
       "id": "ocr-302",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2889,10 +2335,7 @@
       "end": 960,
       "text": "DSN3004 CN Lab (DS1, DS2) = Trilok Chand CL13+CL14",
       "id": "ocr-303",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2903,9 +2346,7 @@
       "end": 900,
       "text": "DSN3003 OS L405 - Ramteke Mamta",
       "id": "ocr-304",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2916,14 +2357,7 @@
       "end": 900,
       "text": "HSM-II (T} (L405, L406, L407, T-9, T-11, T-12}",
       "id": "ocr-305",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407",
-        "T11",
-        "T12",
-        "T9"
-      ],
+      "rooms": ["L405", "L406", "L407", "T11", "T12", "T9"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2934,9 +2368,7 @@
       "end": 960,
       "text": "DSN3002 PDS L405 - Kanu Goe",
       "id": "ocr-306",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2947,9 +2379,7 @@
       "end": 960,
       "text": "HSM-Il G1\u2014G4 (L405}",
       "id": "ocr-307",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2960,9 +2390,7 @@
       "end": 960,
       "text": "HSM-II {T} L405",
       "id": "ocr-308",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2973,9 +2401,7 @@
       "end": 1020,
       "text": "Minor Spec. course Tute/Practical OS MSC L405",
       "id": "ocr-309",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2986,9 +2412,7 @@
       "end": 1020,
       "text": "Minor Specialization course OS MSC L405",
       "id": "ocr-310",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -2999,9 +2423,7 @@
       "end": 1020,
       "text": "Minor Specialization course DS MSC L405",
       "id": "ocr-311",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3012,9 +2434,7 @@
       "end": 1020,
       "text": "Minor Specialization course DS MSC L405",
       "id": "ocr-312",
-      "rooms": [
-        "L405"
-      ],
+      "rooms": ["L405"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3025,14 +2445,7 @@
       "end": 1020,
       "text": "HSM-iI (7) (L405, L406, L407, T-9, T-11, T-12)",
       "id": "ocr-313",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407",
-        "T11",
-        "T12",
-        "T9"
-      ],
+      "rooms": ["L405", "L406", "L407", "T11", "T12", "T9"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3043,11 +2456,7 @@
       "end": 600,
       "text": "CSN3004 OOP Lab (CSE1+CSE2) 304+301 Dr. Satnam Kaur CSN3001- Data Str. Lab (CSE3)- Or. Mayank 303",
       "id": "ocr-314",
-      "rooms": [
-        "LAB301",
-        "LAB303",
-        "LAB304"
-      ],
+      "rooms": ["LAB301", "LAB303", "LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3058,9 +2467,7 @@
       "end": 600,
       "text": "CS$N3002 DSML (G1) L21 \u2014- Amanpreet Singh",
       "id": "ocr-315",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3071,10 +2478,7 @@
       "end": 660,
       "text": "CSN3001 Data Str Lab (CSE4+CSES+C5E6) (Mayank Gupta) 305+304",
       "id": "ocr-316",
-      "rooms": [
-        "LAB304",
-        "LAB305"
-      ],
+      "rooms": ["LAB304", "LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3085,9 +2489,7 @@
       "end": 600,
       "text": "CSN3004 OOP (G2) L22 \u2014 Dr. Amita",
       "id": "ocr-317",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3098,9 +2500,7 @@
       "end": 660,
       "text": "CSN3002 OSML Lab (CSE1, CSE2, CSE3, CSE4) DS Lab Poonam Saini/Amanpreet Singh",
       "id": "ocr-318",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3111,9 +2511,7 @@
       "end": 600,
       "text": "C5N3003 DSCS (G2) L22 \u2014-Amandeep Kaur",
       "id": "ocr-319",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3124,10 +2522,7 @@
       "end": 720,
       "text": "CSN3002 DSML Lab (CSE5, CSE6) 303+304 Poonam Saini/Amanpreet Singh CSN3004 OOP Lab (CSE4) CLS - Dr. Amita",
       "id": "ocr-320",
-      "rooms": [
-        "LAB303",
-        "LAB304"
-      ],
+      "rooms": ["LAB303", "LAB304"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3138,9 +2533,7 @@
       "end": 660,
       "text": "CSN3003 DSCS (G1) L21-Amandeep Kaur",
       "id": "ocr-321",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3151,9 +2544,7 @@
       "end": 660,
       "text": "CSN3002 DSML (G2) L22 \u2014 Amanpreet Singh",
       "id": "ocr-322",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3164,9 +2555,7 @@
       "end": 660,
       "text": "CSN3003 DSCS (G2) L21 -Amandeep Kaur",
       "id": "ocr-323",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3177,10 +2566,7 @@
       "end": 660,
       "text": "CSN3003 DSCS CSE5+CSE6 Tut L21+L22 Amandeep Kaur",
       "id": "ocr-324",
-      "rooms": [
-        "L21",
-        "L22"
-      ],
+      "rooms": ["L21", "L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3191,11 +2577,7 @@
       "end": 720,
       "text": "HSM-H G1-G4 {L405, L406, L407) MHN205 (tl) CSE G2 \u00a321 Dr. Kanu Goel",
       "id": "ocr-325",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407"
-      ],
+      "rooms": ["L405", "L406", "L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3206,9 +2588,7 @@
       "end": 720,
       "text": "CSN3004 OOP (G1}) Dr. Satnam Kaur L21",
       "id": "ocr-326",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3219,9 +2599,7 @@
       "end": 720,
       "text": "CSN3003 DSCS (G2} L22 -Amandeep Kaur",
       "id": "ocr-327",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3232,9 +2610,7 @@
       "end": 720,
       "text": "CSN3002 DSML (G1) L21 \u2014-Amanpreet Singh",
       "id": "ocr-328",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3245,9 +2621,7 @@
       "end": 720,
       "text": "CSN3004 OOP (G2) L22 - Dr. Amita",
       "id": "ocr-329",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3258,9 +2632,7 @@
       "end": 720,
       "text": "CSN3004 GOP (G2) L21 - Dr. Satnam Kaur",
       "id": "ocr-330",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3271,9 +2643,7 @@
       "end": 720,
       "text": "CSN3003 DSCS (G2) L21 \u2014 Amandeep Kaur",
       "id": "ocr-331",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3284,9 +2654,7 @@
       "end": 780,
       "text": "CSN3001 Data Str (G2) L22 = Mayank Gupta",
       "id": "ocr-332",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3297,9 +2665,7 @@
       "end": 780,
       "text": "CSN3002 DSML (G1} L21 \u2014- Amanpreet Singh",
       "id": "ocr-333",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3310,9 +2676,7 @@
       "end": 780,
       "text": "C5N3001 D5 (G1) L21 \u2014 Mayank Gupta",
       "id": "ocr-335",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3323,9 +2687,7 @@
       "end": 780,
       "text": "CSN3001 DS (G2) L22 \u2014 Mayank Gupta",
       "id": "ocr-336",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3336,9 +2698,7 @@
       "end": 780,
       "text": "C5N3004 OOP (G1) L21 - Dr. Satnam Kaur",
       "id": "ocr-337",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3349,9 +2709,7 @@
       "end": 780,
       "text": "C5N3001 DS (G1) L21 \u2014 Mayank Gupta",
       "id": "ocr-338",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3362,9 +2720,7 @@
       "end": 780,
       "text": "CSN3003 DSCS (G1) L22 -Amandeep Kaur",
       "id": "ocr-339",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3375,9 +2731,7 @@
       "end": 780,
       "text": "CSN3001 DS (G2) L21 \u2014 Mayank Gupta",
       "id": "ocr-340",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3388,9 +2742,7 @@
       "end": 900,
       "text": "CSN3004 OOP (G2) L22 - Dr. Amita",
       "id": "ocr-341",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3401,11 +2753,7 @@
       "end": 960,
       "text": "CSN3001 Data Str Lab (CSE1+CSE2) 301+303 \u2014 Mayank Gupta CSN3004 OOP Lab (CSE3) 306 Dr. Satnam Kaur",
       "id": "ocr-342",
-      "rooms": [
-        "LAB301",
-        "LAB303",
-        "LAB306"
-      ],
+      "rooms": ["LAB301", "LAB303", "LAB306"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3416,9 +2764,7 @@
       "end": 900,
       "text": "HSM-il G1-G4 MHN205 {t) CSE G2 #407 Dr. Kanu Goei",
       "id": "ocr-343",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3429,9 +2775,7 @@
       "end": 900,
       "text": "HSM-it {T) MHN205 Tut1 CSE G2 (94) 305 (KG)",
       "id": "ocr-344",
-      "rooms": [
-        "LAB305"
-      ],
+      "rooms": ["LAB305"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3442,9 +2786,7 @@
       "end": 900,
       "text": "CSN3003 Tut (CSE3+CSE4) - Amandeep Kaur 407",
       "id": "ocr-345",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3455,9 +2797,7 @@
       "end": 900,
       "text": "HSM-II (T} MHN205 Tut2 CSE G2 {g2+g3) 407 (KG}",
       "id": "ocr-346",
-      "rooms": [
-        "L407"
-      ],
+      "rooms": ["L407"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3468,10 +2808,7 @@
       "end": 960,
       "text": "CSN3003 Tut {CSE1+CSE2) 301+303 -Amandeep Kaur",
       "id": "ocr-347",
-      "rooms": [
-        "LAB301",
-        "LAB303"
-      ],
+      "rooms": ["LAB301", "LAB303"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3482,10 +2819,7 @@
       "end": 1020,
       "text": "CSN3004 OOP Lab (CSE5+CSE6) CL13+CL14 Dr. Amita",
       "id": "ocr-348",
-      "rooms": [
-        "CL13",
-        "CL14"
-      ],
+      "rooms": ["CL13", "CL14"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3496,9 +2830,7 @@
       "end": 960,
       "text": "CSN3001 DS (G1) L21 - Mayank Gupta",
       "id": "ocr-349",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3509,9 +2841,7 @@
       "end": 960,
       "text": "CSN3002 OSML (G2) L22 \u2014Amanpreet Singh",
       "id": "ocr-350",
-      "rooms": [
-        "L22"
-      ],
+      "rooms": ["L22"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3522,9 +2852,7 @@
       "end": 1020,
       "text": "Minor Spec. course Tute/Practical CSE MSC DS Lab",
       "id": "ocr-351",
-      "rooms": [
-        "DS-LAB"
-      ],
+      "rooms": ["DS-LAB"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3535,9 +2863,7 @@
       "end": 1020,
       "text": "MSC CSE MSC L29",
       "id": "ocr-352",
-      "rooms": [
-        "L29"
-      ],
+      "rooms": ["L29"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3548,9 +2874,7 @@
       "end": 1020,
       "text": "Minor Specialization course CSE MSC L21",
       "id": "ocr-353",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3561,9 +2885,7 @@
       "end": 1020,
       "text": "Minor Specialization course CSE MSC L21",
       "id": "ocr-354",
-      "rooms": [
-        "L21"
-      ],
+      "rooms": ["L21"],
       "review": "OCR \u00b7 verify source"
     },
     {
@@ -3574,13 +2896,7 @@
       "end": 1020,
       "text": "HSM-Hi (T) (L405, \u00a3406, L407, T-9, T-11, 7-12}",
       "id": "ocr-355",
-      "rooms": [
-        "L405",
-        "L406",
-        "L407",
-        "T11",
-        "T9"
-      ],
+      "rooms": ["L405", "L406", "L407", "T11", "T9"],
       "review": "OCR \u00b7 verify source"
     }
   ],
