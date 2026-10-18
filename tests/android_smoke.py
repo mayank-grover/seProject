@@ -87,8 +87,9 @@ assert any(
 ), "Native document picker did not open"
 screenshot("stillspace-android-export.png")
 print("Native document picker opened for JSON export.")
-# Cancel the picker; Android controls whether a file is actually saved.
+# Cancel the picker and wait for its Activity transition before pressing Back again.
 adb("shell", "input", "keyevent", "4")
+assert any(find("text", "Data") is not None for _ in range(4))
 adb("shell", "input", "keyevent", "4")
 assert any(find("text", "Room to think.") is not None for _ in range(4))
 # Verify a cold start without a network connection; this emulator is disposable.
