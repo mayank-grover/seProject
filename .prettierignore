@@ -3,3 +3,6 @@ node_modules/
 .openai/
 *.pdf
 *.webp
+android/
+.android-signing/
+output/

@@ -4,3 +4,8 @@ node_modules/
 __pycache__/
 *.pyc
 .openai/local/
+.android-signing/
+android/.gradle/
+android/local.properties
+android/**/build/
+output/

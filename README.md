@@ -1,8 +1,34 @@
 # Stillspace
 
-A study-space explorer for Punjab Engineering College, Chandigarh, with a frosted-glass interface and a circular clock for testing different dates and times.
+A minimal offline mobile study-space explorer for Punjab Engineering College, Chandigarh. A restrained glass navigation bar, four focused tabs, light/dark themes and a circular time tester keep campus schedules easy to explore.
 
 Explore imported CSE timetables, check full-interval schedule conflicts, save room references, and inspect the scanned source behind each entry.
+
+## Android APK
+
+Download the signed APK from [GitHub Releases](https://github.com/mayank-grover/seProject/releases/tag/v0.2.0). Android 8.0 (API 26) or later with an up-to-date Android System WebView is required. Open the APK on your phone and allow installation from the app you used to download it when Android prompts you.
+
+This is an installable Android APK distributed through GitHub, not a Google Play listing. The Android shell bundles the web interface, data and scans with `WebViewAssetLoader`; it does not load the hosted website. No Internet or storage permission is requested. Native exports use Android's document picker so you choose the destination.
+
+The four tabs are **Explore**, **Week**, **Saved**, and **Data**. Tap the time control to open the circular date/time tester. Appearance supports system, light, dark, and reduced transparency. Android Back closes a sheet, returns to Explore, then exits.
+
+### Build Android locally
+
+Requires JDK 17, Android SDK platform 36 and build tools 35.0.0. Set `ANDROID_HOME` or `ANDROID_SDK_ROOT` when the SDK is not in the default location. Gradle 8.13 is downloaded through the included wrapper.
+
+```sh
+# Once per developer: create a private, persistent signing key.
+python3 scripts/create_signing_key.py
+
+# Subsequent builds reuse that key.
+python3 scripts/build_apk.py
+```
+
+The signed release and checksum are written to `output/apk/`. For a development build without a release key, run `cd android && ./gradlew assembleDebug`.
+
+**Keep a private backup of `.android-signing/`.** That ignored folder contains the release keystore and its passwords. It is never committed or uploaded. The same key is required for updates to replace an installed release without uninstalling it. `android/local.properties`, local build caches, APKs and other build output are also ignored.
+
+See [design decisions](docs/DESIGN.md) for the parts adapted from the supplied Apple Liquid Glass skill. Android uses shared blur layers and restrained transitions; it does not implement Apple's native material APIs.
 
 ## Quick start
 
@@ -48,6 +74,8 @@ Both launchers use port 5173 by default; run one at a time. Refresh your browser
 Saved rooms and notes are local to the browser. Notes are not shared observations and do not change schedule status. Search always checks all mapped branches, even when the weekly table is filtered.
 
 ## Project structure
+
+`android/` contains the native shell, manifest and Gradle wrapper. `scripts/` contains APK build/signing helpers; `docs/DESIGN.md` documents the mobile design. The static app remains available for browser development.
 
 ```text
 seProject/
@@ -95,7 +123,7 @@ JavaScript, HTML, CSS, JSON, and Markdown use Prettier. Python uses Black:
 
 ```sh
 python3 -m pip install -r requirements-dev.txt
-python3 -m black run.py tools
+python3 -m black run.py tools scripts
 python3 -m black --check run.py tools
 ```
 
@@ -123,7 +151,7 @@ Start either local server, then run in another terminal:
 node tests/browser.cjs
 ```
 
-The browser checks exercise clock dragging and keyboard controls, date presets, filtering, source scans, private notes, saved-room persistence, weekly branches, export, unknown-date handling, real-time reset, and mobile overflow. Screenshots are written to `/tmp`. Chrome layouts were reviewed at 1440px and 390px widths; Firefox and Safari have not been verified.
+The browser checks exercise clock dragging and keyboard controls, date presets, filtering, source scans, private notes, saved-room persistence, weekly branches, export, unknown-date handling, real-time reset, and mobile overflow. Screenshots are written to `/tmp`. The mobile redesign is checked at 320, 360, 390, 412, 600 and 1000px widths. Browser checks also verify theme persistence, reduced transparency, native Back callbacks and the absence of remote asset requests. Android emulator verification is documented with the release. Firefox and Safari have not been verified.
 
 ## Timetable data
 
@@ -165,4 +193,14 @@ The adapter is specific to the supplied scanned PDF layout. Review it before usi
 - Capacity, quietness, amenities, floors, actual occupancy, and study permission are unverified. No geographic location is inferred from a room number.
 - There is no authentication, shared database, shared reporting/moderation, geographic campus map, live sensor feed, reservation system, or trained occupancy model.
 
-The app is a static, browser-local prototype. Google Fonts are optional; system fonts are used when unavailable. No actual-availability probabilities are invented.
+The app is a static, browser-local prototype. All fonts use the installed system family; no remote fonts or assets are requested. No actual-availability probabilities are invented.
+
+### Android emulator smoke test
+
+After installing the APK on a disposable 1080×2400 Android emulator:
+
+```sh
+python3 tests/android_smoke.py --serial emulator-5554
+```
+
+This checks native launch, date/time presets, Back navigation, dark appearance, reduced transparency, native export picker and a cold start without Wi-Fi/mobile data. It intentionally disables networking on the named disposable emulator and writes screenshots to `/tmp`. It refuses physical-device serials.

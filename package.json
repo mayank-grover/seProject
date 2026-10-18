@@ -1,6 +1,6 @@
 {
   "name": "stillspace",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +8,9 @@
     "start": "node server.mjs",
     "test": "node --test tests/*.test.mjs",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "android:key": "python3 scripts/create_signing_key.py",
+    "android:build": "python3 scripts/build_apk.py"
   },
   "devDependencies": {
     "prettier": "^3.9.10"
